@@ -17,5 +17,3 @@ The program starts at memory location x3000, loads the input number into a regis
 ## Getting Started
 
 To get started with these projects, clone this repository to your local machine. You will need an assembly language compiler to compile and run these programs. If you want to calculate the factorial of a different number in the Factorial Calculator, you can change the value at the memory location labeled INPUT in the program.
-
-We hope you find these projects useful and educational. Happy coding!
